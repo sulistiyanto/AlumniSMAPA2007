@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "258171920968",
+    "firebase_url": "https://alumni-smapa-2007.firebaseio.com",
+    "project_id": "alumni-smapa-2007",
+    "storage_bucket": "alumni-smapa-2007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258171920968:android:85a08f61f61c1e0c",
+        "android_client_info": {
+          "package_name": "id.alumnismapa2007"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258171920968-ceqsmmvbn88gcbgvc9omeacn5fi7bhhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCrXvK2uZYFSZ9wtTSzKmXA0nq5wpgaMk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
